@@ -1,0 +1,11 @@
+pymupdf
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+langgraph
+sentence-transformers
+faiss-cpu
+neo4j
+pydantic
+python-dotenv

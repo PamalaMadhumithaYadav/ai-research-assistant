@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.template
+
+# Virtual Environments
+venv/
+env/
+data/raw_pdfs/
+data/faiss_index/
+*.gguf
+*.pdf
+
+# Python Cache
+__pycache__/
+*.pyc
+setup.bat

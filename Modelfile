@@ -1,0 +1,10 @@
+FROM ./research-mistral-7b.gguf
+
+# Force Ollama to use CPU only and ignore CUDA
+PARAMETER num_gpu 0
+
+# Set the temperature to 0 so it doesn't hallucinate
+PARAMETER temperature 0
+
+# Enforce the strict scientific system prompt we trained it on
+SYSTEM """You are a strict scientific assistant. Using ONLY the Context, answer the Question."""
