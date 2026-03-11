@@ -91,3 +91,8 @@ Before you begin, ensure you have the following requirements:
    *   Create a workspace in the sidebar.
    *   Upload your PDFs and click **Ingest Documents**.
    *   Start querying your fully autonomous, private Research Graph!
+  
+## Contributors
+
+- **Pamala Madhumitha Yadav**
+- **Munisai Kannemmagari**
